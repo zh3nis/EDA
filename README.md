@@ -1,0 +1,2 @@
+# EDA
+Epanechnikov Discriminant Analysis
